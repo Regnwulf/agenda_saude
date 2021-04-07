@@ -16,8 +16,9 @@ _mailinglist
 .idea/
 docs/_build/
 .vscode
-.__pycache__
-.venv
+__pycache__
+*.pyc
+venv
 
 # Coverage reports
 htmlcov/
